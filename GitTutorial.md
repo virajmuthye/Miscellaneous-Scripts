@@ -1,5 +1,3 @@
-#!/bin/bash
-cat > README.md << 'EOF'
 # GitHub Tutorial for Beginners
 
 Welcome to this GitHub tutorial! This guide will walk you through the basics of using GitHub, from setting up your account to collaborating on projects.
@@ -116,6 +114,6 @@ Merge after review
 ---
 
 *This tutorial is beginner-friendly and ready to use for anyone starting with Git and GitHub.*
-EOF
+
 
 echo "README.md created successfully!"
